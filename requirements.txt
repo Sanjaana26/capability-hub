@@ -1,0 +1,8 @@
+streamlit
+boto3
+PyPDF2
+python-docx
+langchain-text-splitters
+faiss-cpu
+numpy
+python-dotenv
